@@ -82,7 +82,8 @@ Maps are `.ber` files with the following rules:
 - `make`
 - `MLX` library
 
-## Setup and Usage
+
+## 🛠️ Setup and Usage
 ```bash
 
 # Clone the repository
