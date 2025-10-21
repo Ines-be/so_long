@@ -1,7 +1,7 @@
 # 2D Game Project
 
 <p align="center">
-  <img src="img/so_long.gif" alt="Game animation">
+  <img src="img/so_long.gif.zip" alt="Game animation">
 </p>
 
 This is a simple 2D game project entirely written in **C**, using the **MiniLibX (mlx)** graphics library.  
