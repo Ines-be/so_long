@@ -1,9 +1,9 @@
 # 2D Princess Adventure Game
 
 <p align="center">
-  <img src="img/so_long.gif" alt="Game animation">
+  <img src="img/so_long.gif" alt="Game animation"><br>
+  <em>Preview of my game :)</em>
 </p>
-
 
 ## 👑 Overview
 This is a **2D game** written in **C** where the player controls a princess who must **collect all the rubies** while avoiding a monster and reach the exit to win. The game features:
